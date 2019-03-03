@@ -10,6 +10,7 @@ To run these files python 2.7.10 should be installed in your  machine.
 Run the programs using the below command in the command line,
         python <filename.py>
         
+Note: Sample Inputs are given in all scripts.
 Please find the sample input for all the three problems below,
 
 1) python super_stack.py
